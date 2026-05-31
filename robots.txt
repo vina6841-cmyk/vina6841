@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vina6841-cmyk.github.io/vina6841/sitemap.xml
